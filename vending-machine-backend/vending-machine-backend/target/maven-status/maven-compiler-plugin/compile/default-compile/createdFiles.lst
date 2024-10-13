@@ -1,0 +1,11 @@
+com\vendingmachine\vending_machine_backend\repository\TransactionRepository.class
+com\vendingmachine\vending_machine_backend\model\Currency.class
+com\vendingmachine\vending_machine_backend\repository\ItemRepository.class
+com\vendingmachine\vending_machine_backend\model\Transaction.class
+com\vendingmachine\vending_machine_backend\model\Item.class
+com\vendingmachine\vending_machine_backend\service\VendingMachineService.class
+com\vendingmachine\vending_machine_backend\utility\PettyCashManager.class
+com\vendingmachine\vending_machine_backend\VendingMachineBackendApplication.class
+com\vendingmachine\vending_machine_backend\model\ItemQuantity.class
+com\vendingmachine\vending_machine_backend\controller\VendingMachineController.class
+com\vendingmachine\vending_machine_backend\model\PurchaseRequest.class
